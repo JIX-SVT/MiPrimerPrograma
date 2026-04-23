@@ -23,10 +23,10 @@ public class ViewMenuPrincipal {
                     mostrarMenuMatematica(); 
                     break; 
                 case 2:
-                    
+                    mostrarMenuTexto();
                     break;
                 case 3:
-                    
+                    mostrarMenuLogica();
                     break;
                 case 4: System.out.println("Saliendo..");
                     opcionMenu = 4;
