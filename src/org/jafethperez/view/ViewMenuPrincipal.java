@@ -49,7 +49,17 @@ public class ViewMenuPrincipal {
         System.out.println("9.Resto de División");
         System.out.println("10.Potencia al Cubo");
     }
-
-        
- 
+    public void mostrarMenuTexto() {
+        System.out.println("Menú de Texto ");
+        System.out.println("1.Concatenador de Nombre");
+        System.out.println("2.Contador de Longitud");
+        System.out.println("3.Inversor de Texto");
+        System.out.println("4.Detector de Vocales");
+        System.out.println("5.Extractor de Iniciales");
+        System.out.println("6.Normalizador a Mayúsculas");
+        System.out.println("7.Conversor Binario");
+        System.out.println("8Repetidor de Palabras");
+        System.out.println("Validador de Password");
+        System.out.println("Generador de Email");
+    }
 }
