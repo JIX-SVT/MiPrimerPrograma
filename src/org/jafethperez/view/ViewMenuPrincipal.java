@@ -58,8 +58,21 @@ public class ViewMenuPrincipal {
         System.out.println("5.Extractor de Iniciales");
         System.out.println("6.Normalizador a Mayúsculas");
         System.out.println("7.Conversor Binario");
-        System.out.println("8Repetidor de Palabras");
-        System.out.println("Validador de Password");
-        System.out.println("Generador de Email");
+        System.out.println("8.Repetidor de Palabras");
+        System.out.println("9.Validador de Password");
+        System.out.println("10.Generador de Email");
+    }
+        public void mostrarMenuLogica() {
+        System.out.println("Menú de Lógica ");
+        System.out.println("1.Verificador de Edad");
+        System.out.println("2.Número Par");
+        System.out.println("3.Semáforo");
+        System.out.println("4.Rango Numérico");
+        System.out.println("5.Login Simple");
+        System.out.println("6.Mayor de Dos");
+        System.out.println("7.Año Bisiesto");
+        System.out.println("8.Aprobado/Reprobado");
+        System.out.println("9.Validador de Triángulo");
+        System.out.println("10.Comparador de Cadenas");
     }
 }
